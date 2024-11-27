@@ -1,0 +1,11 @@
+body{
+    background:url("https://t4.ftcdn.net/jpg/03/16/11/71/360_F_316117199_itGmqmJAP8ZLgCsKpDrPnz2Af4oJr49P.jpg");
+    
+    background-size: contain;
+}
+h1{
+    color: white;
+}
+img{
+    border: solid white 4px;
+}
